@@ -14,7 +14,7 @@ setup(
         'dlib',
         'click'
     ],
-    url='https://github.com/rockkoca/face-extraction',
+    url='https://github.com/kocawin/face-extraction',
     author='KocA',
     author_email='',
     python_requires='>=3.6',
