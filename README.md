@@ -1,7 +1,8 @@
 # Purpose
 Extract faces from videos for machine learning.
 为机器学习从视频中提取头像素材
-
+# requirements
+  * pythone 3.6+
 # Usage
 ## command line
   *  download this repo
